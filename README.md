@@ -12,6 +12,8 @@ differences.
 
 You can place `zithud-master` into your `custom` folder if you want to try it out.
 
+You should disable minimal hud if you have it enabled.
+
 ![zithud_1](/zithud_1.jpg)
 ![zithud_2](/zithud_2.jpg)
 ![zithud_3](/zithud_3.jpg)
