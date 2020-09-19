@@ -6,7 +6,7 @@ It's designed following my preferences. It only modifies the important parts: he
 ammo, leaderboard... and it doesn't mess with any elements that aren't important in-game.
 
 I only tested it on Linux. It should work on other platforms, but there may be some small
-differences.
+visual differences.
 
 ### Installation
 
