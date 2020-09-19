@@ -20,3 +20,4 @@ You should disable minimal hud if you have it enabled.
 ![zithud_4](/zithud_4.jpg)
 ![zithud_5](/zithud_5.jpg)
 ![zithud_6](/zithud_6.jpg)
+![zithud_7](/zithud_7.jpg)
